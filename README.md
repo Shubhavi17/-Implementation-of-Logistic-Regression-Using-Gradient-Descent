@@ -41,7 +41,12 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![Screenshot 2024-04-02 155941](https://github.com/Shubhavi17/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150005085/50736f21-f1a7-4f9b-9490-0742e2fd7213)
+![Screenshot 2024-04-02 155948](https://github.com/Shubhavi17/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150005085/863aa8d9-dd14-472c-84e1-36292c9d5994)
+![Screenshot 2024-04-02 155958](https://github.com/Shubhavi17/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150005085/f5353ba8-0858-4284-8aca-7c89cc409570)
+
+
+
 
 
 ## Result:
